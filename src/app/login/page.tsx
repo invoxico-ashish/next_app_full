@@ -9,9 +9,7 @@ export default function LoginPage() {
         email: "",
         password: "",
     });
-    const onLogin = async () => {
-
-    };
+    const onLogin = async () => {};
     return (
         <div className="flex flex-col items-center justify-center min-h-screen py-2">
             <h1 >Login</h1>
